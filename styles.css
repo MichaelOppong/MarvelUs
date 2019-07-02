@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: #A52206;
+    font-family: 'Marvel', sans-serif;
+}
+p{
+    font-size:20px;
+}
+.start {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 10px outset white;
+    width: 30%;
+}
+
+.inputDiv {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 50%;
+}
+.question{
+        border: 10px outset white;
+        padding:10px;
+
+}
+h2{
+    text-align:center;
+}
+.hero{
+    text-align:center;
+}
